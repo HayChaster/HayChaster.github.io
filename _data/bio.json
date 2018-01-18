@@ -5,7 +5,7 @@
     "picture": "https://HayChaster.github.io/images/NEW.jpg",
     "email": "chaster@hawaii.edu",
     "phone": "808-430-0433",
-    "website": "https://haychaster.github.io/",
+    "website": "https://HayChaster.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "Frear Hall 2569 Dole Street",
@@ -22,13 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "Chaster Mateo",
+        "username": "chastermateo",
         "url": "https://www.linkedin.com/in/chaster-mateo-0203a7149/"
-      },
-      {
-        "network": "instagram",
-        "username": "chaster_mateo",
-        "url": ""
       }
     ]
   },
@@ -36,8 +31,6 @@
     {
       "name": "Networking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -60,7 +53,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
+        "Python",
         "Common Lisp"
       ]
     },
@@ -68,11 +61,6 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
