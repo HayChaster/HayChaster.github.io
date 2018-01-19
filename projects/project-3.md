@@ -21,3 +21,5 @@ Practice with C# and modeling using an application called Unreal Engine. Buildin
 
 I work mostly on environment modeling and but I want to practice more on coding to make custome animations and interactions. I also learned that between interaction and the network of objects to make things smooth you have to create multiple points on the model.
 
+
+<i>You can learn more about Unreal Engine</i> [[here](https://docs.unrealengine.com/latest/INT/Programming/)]
