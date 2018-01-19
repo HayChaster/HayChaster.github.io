@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Kingdom_hearts.jpg
+title: ICS 111 Collecting Friends
+permalink: projects/ICS 111 Collecting Friends
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
