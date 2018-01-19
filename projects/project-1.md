@@ -13,7 +13,7 @@ labels:
 summary: I created a game in Eclipse using Java in ICS 111 which involves collecting friends.
 ---
 
-<iframe width="640" height="390" src="https://www.youtube.com/watch?v=2Mv0RK9XZf8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv0RK9XZf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
