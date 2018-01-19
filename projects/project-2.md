@@ -20,4 +20,4 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-<i>TA for ICS212</i> [[Website](http://www2.hawaii.edu/~tidota/)]
+<i>Learn more about the TA for ICS212 and the class</i> [[Here.](http://www2.hawaii.edu/~tidota/)]
