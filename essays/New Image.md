@@ -16,3 +16,7 @@ Ever since I was young I would always play some sort of game, the way that the g
 
 
 <img class="ui small right circular floated image" src="../images/AI.jpg">
+
+At first I after High School I wanted to become an engineer thinking that building things physically would satisfy my hunger for knowledge but it was boring, but after taking my first programming class which was ICS 111 with Jason Leigh I started to realize that Computer Science is the best. My interest started to turn more towards artificial intelligence because a learning machine which learns from its surrounds brought endless possibility to the world.
+
+My goal in Computer Science in general is to make people fascinated by the computer world just like games opened my eyes to the endless possiblity in life. I would like to make websites where can go to enjoy their hobby and learn more about the computer world, either dealing with simple tasks to helping with the impossible. I intend to help create artificial intelligence which will one day expand on our outlook on life and go futher beyond. The world of programming became a new image of fun.   
