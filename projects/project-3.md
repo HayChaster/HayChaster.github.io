@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Unreal.jpg
+title: Unreal Environment
+permalink: projects/Unreal Environment
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Unreal Engine
+  - C#
+  - Models
+summary: Practice with C# and 3D models 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
