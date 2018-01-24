@@ -10,8 +10,10 @@ labels:
   - Computers 
   - JavaScript
 ---
-
+<div class="ui small rounded images">
 <img class="ui small right circular floated image" src="../images/javascript_logo.png">
+</div>
+
 
 I think that JavaScript is a user-friendly language which is more efficient with helping new coders understand the basics but lacks control compared to a language like C, where I can control every point of a variable, it is similar to C#, but there are key differences. I did learn something while doing exercises, some basic things with JavaScript like variable definitions with var, let and const. I do think that JavaScript is a good language which will be useful for a software engineering perspective because it could be used in networking and in today’s world, networks is everything connecting, receiving and responding. I also think that in athletic software engineering, programmers would use JavaScript since it is more about understanding the concept and being fluent.
 
