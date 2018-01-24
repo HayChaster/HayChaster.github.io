@@ -15,7 +15,6 @@ summary: A program which saves data, and specific data input that can only be op
 ---
 <div class="ui small rounded images">
 <img class="ui image" src="{{ site.baseurl }}/images/identity.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/user_key.JPG">
 </div>
 
 This is a program written in C which is able to save data, delete data, print users, search for a user and modify data with a key. The program saves input into a .txt file and into memory, for security reasons a key is needed to access other users data input. This program has examples of pointers which help organize the data and makes sure the data which is inputted is sorted in order. 
