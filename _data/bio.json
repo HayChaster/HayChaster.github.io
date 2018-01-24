@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "data management",
+      "name": "Data Management",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -76,7 +76,7 @@
       ]
     }
   ],
-  "work": [
+  /*"work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -101,8 +101,8 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
-  "volunteer": [
+  ], */
+ /* "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -128,20 +128,20 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ], */
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2014-2015",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }/*,
     {
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+    }*/
   ],
   "references": [
     {
