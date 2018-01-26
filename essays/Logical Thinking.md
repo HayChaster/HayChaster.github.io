@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Logical Thinking
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
