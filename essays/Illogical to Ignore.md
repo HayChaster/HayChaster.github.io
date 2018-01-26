@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: illogical to ignore
+title: Illogical to Ignore
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
