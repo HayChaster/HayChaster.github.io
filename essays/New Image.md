@@ -8,6 +8,7 @@ labels:
   - Learning
   - Software Engineering
   - Computers 
+  - Gaming
 ---
 
 <img class="ui small right circular floated image" src="../images/Mario.png">
