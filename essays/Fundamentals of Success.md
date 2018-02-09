@@ -14,7 +14,7 @@ labels:
 
 <img class="ui small right circular floated image" src="../images/error.jpg">
 
-To be good at something, first you have to learn the basics. When practicing anything from sports, to math, to coding, there is a step in
+To be good at something, first you must learn the basics. When practicing anything from sports, to math, to coding, there is a step in
 which you start. For coding the first step understanding what coding is with the syntax. When many people fail to do something, it would 
 usually be because their fundamentals were not good enough, for coding a simple semicolon could crash your code and give an error. There 
 is nothing wrong with trying to improve on the fundamentals, even professionals forget the basics, and get frustrated when dealing with 
