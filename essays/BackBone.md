@@ -13,7 +13,7 @@ labels:
 ---
   
 
-<img class="ui small right circular floated image" src="../images/UI.jpg">
+<img class="ui small right circular floated image" src="../images/UI.png">
 
 When first learning to program, most people must hardcode basic code, making thousands of lines overused and can strain the eyes. Yet as you progress through the learning process you learn that thousands of lines of code could be reduced to hundreds, by using easy to understand key words. What is the back bone of most codes? Besides the conversion of code to machine language the back bone of coding in modern code is libraries. Libraries of code which simplifies the tedious process of doing it by hand, is the software engineers best friend, why make a function which makes a grid when I can use a simple “ui grid”?   
 
