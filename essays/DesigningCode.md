@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Fundamentals of Success
+title: Designing Code
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
