@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Over Code 
+title: Fundamentals of Success
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
@@ -9,9 +9,9 @@ labels:
   - Software Engineering
   - Computers 
   - Basics
-  - Foundation
-  -Design
+  - Design
 ---
+
   
   <img class="ui small right circular floated image" src="../images/UI.png">
 
