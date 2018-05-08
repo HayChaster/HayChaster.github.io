@@ -1,18 +1,16 @@
 ---
 layout: project
 type: project
-image: images/Kingdom_hearts.jpg
+image: images/Unreal.jpg
 title: GrubNGo
-permalink: GrubNGo
+permalink: projects/GrubNGo
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-03
+date: 2017-02-09 to present
 labels:
-  - JavaScript
-  - Website
-  - intellij
-  - Semantic
-  - App
-summary: creating a website that was able to show users in University of Hawaii at Manoa current food options
+  - Unreal Engine
+  - C#
+  - Models
+summary: Practice with C# and 3D models 
 ---
 
 there test
