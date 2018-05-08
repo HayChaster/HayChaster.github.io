@@ -12,7 +12,7 @@ labels:
   - intellij
   - Semantic
   - App
-summary: creating a website that was able to show users in University of Hawaii at Manoa current food options.
+summary: creating a website that was able to show users in University of Hawaii at Manoa current food options
 ---
 
 there test
