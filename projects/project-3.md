@@ -5,7 +5,7 @@ image: images/Unreal.jpg
 title: Unreal Environment
 permalink: projects/Unreal Environment
 # All dates must be YYYY-MM-DD format!
-date: 2017
+date: 2017-02-09 to present
 labels:
   - Unreal Engine
   - C#
