@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: images/Unreal.jpg
 title: GrubNGo
 permalink: projects/GrubNGo
 # All dates must be YYYY-MM-DD format!
