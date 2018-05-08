@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/Kingdom_hearts.jpg
 title: GrubNGo
-permalink: projects/GrubNGo
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-03
 labels:
