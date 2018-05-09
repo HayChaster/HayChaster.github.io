@@ -21,3 +21,8 @@ summary: Making a website app for University of Hawaii at Manoa students who nee
 
 
 GrubNGo is an app that was created from a team of University students in ICS 314. The app was created to help students who were unable to find food vendors that avaliable at the time. The Goal was to give students and professors places to eat, also a place where they sell food that the user would want to eat and enjoy. The project was created with Github using JavaScript, semantic and programming pattern. 
+
+
+<img class="ui image" src="{{ site.baseurl }}/images/vendorhomepage.png">
+
+One part of the GrubNGo app that I was contributing in was making a homepage for the vendor that was distributing goods. By giving the vendor the ability to add food, drinks, add a picture and edit the menu. By doing so the vendor is able to fix anything in the menu as long as they sign into the database. 
