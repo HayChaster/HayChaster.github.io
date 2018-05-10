@@ -76,6 +76,30 @@
       ]
     }
   ], 
+   "work and experience": [
+        {
+            "company": "NOAA national oceanic & atmospheric administration",
+            "position": "Assistant Web Developer",
+            "website": "http://www.noaa.gov/",
+            "startDate": "2018-04-10",
+            "endDate": "Present",
+            "summary": "helped maintain a seperate page of NOAA which is specific to english and japanese translations",
+            "highlights": [
+                "worked with a team of translators and web developers to deploy functional translations in a website."
+            ]
+        },
+        {
+            "company": "NOAA national oceanic & atmospheric administration",
+            "position": "Japanese to English translations",
+            "website": "http://www.noaa.gov/",
+            "startDate": "2018-04-10",
+            "endDate": "2018-05-09",
+            "summary": "helped translate english and japanese signs in Hawaii and Japan to help people understand more about mammals.",
+            "highlights": [
+                "worked with a group of undergraduate students and graduate students to translate between english and japanese."
+            ]
+        }
+    ],
   "awards": [
     {
       "title": "B+ Scholarship",
