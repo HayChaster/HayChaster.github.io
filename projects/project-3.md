@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Unreal.jpg
 title: Unreal Environment
-permalink: projects/Unreal Environment
+permalink: projects/Unreal_Environment
 # All dates must be YYYY-MM-DD format!
 date: 2017-02-09
 labels:
