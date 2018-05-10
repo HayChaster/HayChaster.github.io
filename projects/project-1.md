@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Kingdom_hearts.jpg
 title: ICS 111 Collecting Friends
-permalink: projects/ICS 111 Collecting Friends
+permalink: projects/ICS_111_Collecting_Friends
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-11
 labels:
