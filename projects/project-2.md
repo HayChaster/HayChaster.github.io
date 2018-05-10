@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/banking.jpg
 title: Data Storage
-permalink: projects/Data Storage
+permalink: projects/Data_Storage
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-12
 labels:
