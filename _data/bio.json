@@ -61,6 +61,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+           "MacOS",
+        "Git/GitHub"
       ]
     }
   ],
@@ -80,7 +82,7 @@
         {
             "company": "NOAA national oceanic & atmospheric administration",
             "position": "Assistant Web Developer",
-            "website": "http://www.noaa.gov/",
+            "website": "",
             "startDate": "2018-04-10",
             "endDate": "Present",
             "summary": "helped maintain a seperate page of NOAA which is specific to english and japanese translations",
