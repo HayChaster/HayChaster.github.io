@@ -10,7 +10,7 @@ labels:
   - Unreal Engine
   - C#
   - Models
-summary: Practice with C# and 3D models 
+summary: Practice with C# and 3D models, hoping to create models which can simulate specific situations. 
 ---
 <div class="ui small rounded images">
 <img class="ui image" src="{{ site.baseurl }}/images/Unreal_connect.png">
