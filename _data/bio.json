@@ -54,7 +54,7 @@
         "Java",
         "Javascript",
         "Python",
-        "Common Lisps"
+        "Common Lisp"
       ]
     },
     {
@@ -64,7 +64,12 @@
            "MacOS",
         "Git/GitHub"
       ]
-    }
+    },
+    {
+      "name": "Spoken Languages",
+      "level": "Novice",
+      "summary": "Ability to read, write, and speak in Japanese."
+    },
   ],
   "education": [
     {
@@ -90,12 +95,6 @@
                 "Worked with a group of undergraduate students and graduate students to translate between English and Japanese."
             ]
         }
-    ],
-    "language skills": [
-      {
-        "summary": "Novice understanding of Japanese being able to speak, write and read in Japanese." 
-      }
-    
     ],
   "awards": [
     {
