@@ -65,11 +65,16 @@
         "Git/GitHub"
       ]
     },
+  ],
+    "languages": [
     {
-      "name": "Spoken Languages",
-      "level": "Novice",
-      "summary": "Ability to read, write, and speak in Japanese."
-    },
+      "name": "English",
+      "level": "Native speaker",
+      "name": "Japanese",
+      "level": "Novice"
+    }
+  ],
+    }
   ],
   "education": [
     {
